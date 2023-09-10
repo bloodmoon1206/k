@@ -1,0 +1,16 @@
+body{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100vh;
+}
+button{
+	background-color:#1899d6;
+	border:solid transparent;
+	border-radius:16px;
+	border-bottom:0 0 4px;
+	color:#fff;
+	cursor:pointer;
+	padding:13px 16px;
+	outline:none;
+}
